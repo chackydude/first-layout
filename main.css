@@ -1,0 +1,220 @@
+body {
+	font-family: Arial, sans-serif;
+	color: black;
+	padding: 0;
+	margin: 0;
+	}
+
+.container {
+	width: 100%;
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+div {
+	box-sizing: border-box;
+}
+
+header {
+	background-color: black;  
+	height: 44.444444%;
+}	
+
+.heading {
+	
+	
+}
+
+.logo {
+	float: left;
+	margin-top: 50px;
+	
+	width: 10%;
+}
+
+.test {
+	padding: 20px;
+	margin: 50px ;
+}
+
+nav {
+	margin-top: 75px; 
+	float: right;
+}
+
+.menu {
+	padding: 0;
+	margin: 0;
+	display: block;
+}
+
+.menu li {
+	float: left;
+	display: block;
+	margin-right: 70px;
+}
+
+.menu a {
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 20px;
+}
+
+.title_acclaming_text {
+	margin-top: 60px; 
+	color: #fff;
+	font-family: Arial;
+	font-size: 30px;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+h1 {
+	font-size: 50px;
+	color: #fff;
+	font-family: Arial;
+	text-transform: uppercase;
+	text-align: center;
+	margin: 10px;
+}
+
+.clearfix:after {
+	content:"";
+	display: table;
+	width: 100%;
+	clear: both;
+}
+
+.button {
+	height: 20px;
+	width: 300px;
+	text-transform: uppercase;
+	color: #484543;	
+	background: #fed136;
+	text-align: center;
+	border-radius: 6px;
+	display: block;
+	padding: 10px;
+	font-family: Arial;
+	margin: 0 auto;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	text-decoration: none;
+	font-weight: bold;
+}
+/*100th line of the code!*/
+.title {
+	padding-top: 90px;
+}
+
+.title h2 {
+	font-size: 30px;
+	text-transform: uppercase;
+	font-style: bold;
+	text-align: center;
+	margin:0 ;
+}
+
+.title p {
+	font-size: 16px;
+	color: #777777;
+	text-align: center;
+	margin-top: 5px;
+}
+
+.OS {
+	padding-top: 50px;
+	text-transform: ;
+	font-weight: bold;
+	font-family: system-ui;
+	width: 100%;
+}
+
+.advantages {
+	font-size: 17px;
+	text-align: center;
+	width: 250px;
+	float: right;
+	height: 0px;
+}
+
+.advantages p {
+	color: #777777;
+	font-size: 13px;
+	margin-top: 5px;
+}
+
+.advantages_icon {
+	width: 125px;
+	height: 125px;
+}
+
+.advantages:first-child {
+	float: left;
+}
+
+
+.advantages:nth-child(3) {
+	margin-right: 75px;
+}
+
+#list {
+	padding-bottom: 300px;
+
+}
+#our_office {
+	background: #f7f7f7;
+ 	width: 100%;
+ 	max-height: 500px;
+ 	height: 100%;
+ 	margin: 0 auto;
+}
+
+.works {
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+
+.works img {
+	max-height: 250px;
+	max-width: 296px;
+	width: 100%;
+	float: left;
+
+}
+
+.works img:last-child {
+	float: right;
+}
+
+.works img:nth-child(2) {
+	 margin-left: 6px;
+}
+.about_us {
+	padding-bottom: 50px;
+	margin: auto;
+}
+.about_us h4 {
+	text-align: center; 
+	padding-top: 20px;
+	font-size: 30px;
+}
+.about_us p {
+	padding-top: 5px;
+	font-size: 20px;
+}
+.about_us td{
+	height: 100px;
+	width: 250px;
+	padding-right: 10px;
+	padding-left: 10px;	
+	text-align: center;
+}
+/* 200th line of the code xd!*/
+}
+.title:last-child p {
+	text-align: right;
+	font-size: 15px;
+}
+
