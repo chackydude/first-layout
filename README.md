@@ -1,4 +1,2 @@
-# hello-world-
-Just another repository
-Dan9 here, I had tacos on the moon and find them far superior to Earth tacos. 
-Amazing
+# -my first layout-
+Dan9 here, it's main page of my first layout with using HTML5 and CSS3. Here i tried to use media-requests for some "rubber" and adaptive layout, CSS pseudo-classes, and etc.
