@@ -1,0 +1,62 @@
+/*Media files*/
+@media only screen and (max-width: 1000px) {
+/*	.logo {
+		width: 75px;
+		height: 75px;
+		margin: 30px 0px 0px 30px;
+		text-align: center;
+	}
+	.menu {
+		margin-top: 20px;
+		text-align: center;
+		display: inline-block;
+		float: none;
+	}
+	.menu li {
+		margin-top: 15px;
+	}
+
+	.menu a {
+		color: #484543;
+		font-weight: bold;
+		font-size: 15px;
+		background-color: #fed136;
+		height: 30px;
+		width: 200px;
+		display: block;
+		padding-top: 6px;
+		box-sizing: border-box;
+		border-radius: 5px;
+		}*/
+	
+	.logo {
+		margin-left: 20px;
+	}
+	.OS {
+		margin-bottom: 50px;
+	}
+	.OS td {
+		width: 100%;
+		height: 100%;
+	}
+	.advantages:nth-child(3) {
+		height: 0px;
+		margin-right: 0px;
+	}
+	.advantages_icon {
+		width: 200px;
+		height: 200px;
+	} 
+	.menu li {
+		float: left;
+		display: block;
+		margin-right: 10px;
+	}
+	.works  {
+		margin: 0 auto;
+	}
+	.works td img {
+		width: 90%;
+	}
+
+}
